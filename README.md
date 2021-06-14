@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### To know more about me, visit https://pushkar4.herokuapp.com
+### Visit https://pushkar4.herokuapp.com to know more about me.
 
 <!--
 **pushkar4/pushkar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
